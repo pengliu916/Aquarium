@@ -1,0 +1,3 @@
+#pragma once
+#define SUB_TEXTUREWIDTH 1280
+#define SUB_TEXTUREHEIGHT 800
